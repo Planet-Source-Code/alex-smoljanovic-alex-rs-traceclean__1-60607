@@ -1,0 +1,35 @@
+typed urls: 
+HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\TypedURLs
+
+
+recent docs:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+
+
+shell folders:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+
+
+user shell folders:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+
+
+url history:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Url History
+
+
+kazaa searches:
+HKEY_CURRENT_USER\Software\Kazaa\Search
+
+
+MSPaint Recent File List:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List
+
+Temp Inet Files:
+E:\Documents and Settings\Alex Smoljanovic\Local Settings\Temporary Internet Files
+
+History:
+E:\Documents and Settings\Alex Smoljanovic\Local Settings\History
+
+Cookies:
+E:\Documents and Settings\Alex Smoljanovic\Cookies
